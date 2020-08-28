@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Main Recycler</string>
+    <string name="id">ID</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="add">Add</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <string name="_0">0</string>
+    <string name="percyking">Percyking</string>
+    <string name="add_word">add</string>
+    <string name="hint_word">Word</string>
+    <string name="button_save">Save</string>
+    <string name="empty_not_saved">Word not saved because it is empty.</string>
+</resources>
